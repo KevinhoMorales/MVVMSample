@@ -14,7 +14,7 @@
 		61F15A362614E8A8005BB0C2 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F15A352614E8A8005BB0C2 /* ListViewController.swift */; };
 		61F15A392614E91B005BB0C2 /* List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F15A382614E91B005BB0C2 /* List.swift */; };
 		61F15A3C2614E924005BB0C2 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F15A3B2614E924005BB0C2 /* Constants.swift */; };
-		61F15A402614E9BF005BB0C2 /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F15A3F2614E9BF005BB0C2 /* ListViewModel.swift */; };
+		61F15A482614EEAF005BB0C2 /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F15A472614EEAF005BB0C2 /* ListViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		61F15A352614E8A8005BB0C2 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		61F15A382614E91B005BB0C2 /* List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = List.swift; sourceTree = "<group>"; };
 		61F15A3B2614E924005BB0C2 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
-		61F15A3F2614E9BF005BB0C2 /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ListViewModel.swift; path = ../../../../Downloads/ListViewModel.swift; sourceTree = "<group>"; };
+		61F15A472614EEAF005BB0C2 /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,7 +92,7 @@
 		61F15A332614E871005BB0C2 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
-				61F15A3F2614E9BF005BB0C2 /* ListViewModel.swift */,
+				61F15A472614EEAF005BB0C2 /* ListViewModel.swift */,
 			);
 			name = ViewModel;
 			sourceTree = "<group>";
@@ -175,7 +175,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				61F15A402614E9BF005BB0C2 /* ListViewModel.swift in Sources */,
+				61F15A482614EEAF005BB0C2 /* ListViewModel.swift in Sources */,
 				61F15A1B2614E7FB005BB0C2 /* AppDelegate.swift in Sources */,
 				61F15A362614E8A8005BB0C2 /* ListViewController.swift in Sources */,
 				61F15A392614E91B005BB0C2 /* List.swift in Sources */,
